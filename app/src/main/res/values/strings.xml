@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">El Libertador</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2_surf_view">Activity2SurfView</string>
+    <string name="intro_title">El Libertador</string>
+    <string name="button1_text">Start Game!</string>
+</resources>
